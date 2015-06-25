@@ -1,0 +1,1 @@
+# magerun-core-verify-checksum
